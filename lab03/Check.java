@@ -51,5 +51,5 @@ public class Check{
         System.out.println("Each person in the group owes $"+dollars+'.'+dimes+pennies);    //Displays the output for how much each person owes for the meal
         
         
-    }   //end of main class
+    }   //end of main method
 }   //end of class
